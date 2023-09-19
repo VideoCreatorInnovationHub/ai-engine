@@ -1,0 +1,5 @@
+.idea/
+.idea/*
+app/extract_result
+app/uploaded_files
+app/utils/__pycache__
